@@ -3,7 +3,7 @@
 
 ## The orthographic segmentation task
 
-The statistical learning/segmentation study by [Kurumada et al. (2013)](https://langcog.stanford.edu/papers/KMF-cognition2013.pdf) test how people would segment a continuous orthographic sequence by asking them to click between letters where they think the word boundaries should be.
+The statistical learning/segmentation study by [Kurumada et al. (2013)](https://langcog.stanford.edu/papers/KMF-cognition2013.pdf) tests how people would segment a continuous orthographic sequence by asking them to click between letters where they think the word boundaries should be.
 
 
 With help from [Aislinn Keogh](http://aislinnkeogh.github.io), I adapted this idea into a task that would let participants place one morpheme boundary per word.
